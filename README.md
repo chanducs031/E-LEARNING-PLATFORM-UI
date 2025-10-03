@@ -56,4 +56,6 @@ Cloud Storage (AWS S3 / Firebase) for video hosting
 Authentication (JWT, OAuth, Firebase Auth)
  
 ## OUTPUT ##
-
+<img width="1891" height="987" alt="Image" src="https://github.com/user-attachments/assets/a3c97461-8097-4a1b-850c-c3e4efe957e5" />
+<img width="1882" height="983" alt="Image" src="https://github.com/user-attachments/assets/93eaf306-507c-4fa8-8a56-499088a6ce97" />
+<img width="1891" height="986" alt="Image" src="https://github.com/user-attachments/assets/6e482632-6207-42ba-bd71-f22f26ddc8c5" />
