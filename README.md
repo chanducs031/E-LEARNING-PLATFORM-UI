@@ -14,7 +14,7 @@
 
 *MENTOR* : NEELA SANTOSH
 
-###   An engaging and user-friendly Quiz Application built with JavaScript, designed to test knowledge through dynamic multiple-choice questions. This app provides instant feedback, score tracking, and a retry option, making it ideal for interview preparation, learning, or casual quizzing.  ###
+### An interactive web-based E-Learning Platform designed to provide seamless online education. Users can explore courses, enroll in lessons, track their progress, and engage with interactive learning materials. The platform supports multimedia content, quizzes, and assessments to enhance learning outcomes. Built with scalability, usability, and responsive design in mind, it is suitable for students, educators, and organizations aiming to deliver quality education online. ###
 
  Features
 User Roles: Student, Instructor, and Admin.
