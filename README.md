@@ -43,16 +43,6 @@ Backend:
 
 Node.js / Express.js (or Django/Flask if using Python)
 
-Database:
-
-MongoDB / MySQL / PostgreSQL
-
-Other Tools & Integrations:
-
-Git & GitHub (Version Control)
-
-Cloud Storage (AWS S3 / Firebase) for video hosting
-
 Authentication (JWT, OAuth, Firebase Auth)
  
 ## OUTPUT ##
